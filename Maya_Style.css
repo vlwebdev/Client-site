@@ -1,0 +1,128 @@
+body{font-family: 'Josefin Sans', sans-serif;
+	background-color: #F5F5F5;
+	background-image: 'blue-blur-background.jpg';
+	font-size: 35px;
+	text-align: center;
+	background-image: url(images/blue-blur-background.jpg);
+	background-size: cover;
+	padding-top: 10%;
+}
+table{
+	margin: 0 auto;
+}
+
+.table-style{text-align: center;}
+	/*padding: 50 50 75 80;
+*/	margin: 0 auto;
+}
+td:hover{
+	background-image: 
+}
+a{
+	text-decoration: none;
+	font-size:10px;
+	color:#000000;
+	text-shadow: .5px .5px .5px;
+}
+td a{
+	width: 300px;
+    display: inline-block;
+    height: 150px;
+    text-indent: -9999px;
+}
+td.scot{
+	background-image: url(images/scotland.jpg);
+	width: 300px;
+	height: 150px;
+	background-size: cover;
+    text-decoration: none;
+    font-size: 10px;
+    color: #000000;
+    text-shadow: .5px .5px .5px;
+    /* padding: 100px; */
+}
+td.scot:hover{
+	background-image:url(images/scotland-castle.jpg);
+	background-size: cover;
+}
+td.NZ{
+	background-image: url(images/new-zealand.jpeg);
+	width: 300px;
+	height: 150px;
+	background-size: cover;
+
+}
+td.NZ:hover{
+	background-image:url(images/Yellow-Treehouse-Restaurant-New-Zealand-1.jpg);
+	background-size: cover;
+}
+td.Ireland{
+	background-image: url(images/Ireland-landscape.jpg);
+	width: 300px;
+	height: 150px;
+	background-size: cover;
+}
+td.Ireland:hover{
+	background-image:url(images/Scotland-Small.jpg);
+	background-size: cover;
+}
+td.fin{
+	background-image: url(images/finland-landscape-2.png);
+	width: 300px;
+	height: 150px;
+	background-size: cover;
+}
+td.fin:hover{
+	background-image:url(images/finland-1stay-the-igloo-village-kakslauttanen-finland-gear-patrol.jpg);
+	background-size: cover;
+    text-decoration: none;
+    font-size: 10px;
+    color: #000000;
+    text-shadow: .5px .5px .5px;
+    /* padding: 100px; */
+}
+td.england{
+	background-image: url(images/england-landscape.jpg);
+	width: 300px;
+	height: 150px;
+	background-size: cover;
+}
+td.england:hover{
+	background-image:url(images/finland.jpg);
+	background-size: cover;
+}
+td.wales{
+	background-image: url(images/Wales-Lake-District.jpg);
+	width: 300px;
+	height: 150px;
+	background-size: cover;
+}
+td.wales:hover{
+	background-image:url(images/wales-britain-toppic.jpg);
+	background-size: cover;
+}
+#box {
+    width: 90%;
+    max-width: 1000px;
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+    opacity: 1;
+}
+#callout {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 40px;
+    letter-spacing: .1em;
+    padding: 25px 0 25px 0;
+    margin: 25px auto;
+    color:#19334d;
+    text-align: center;
+}
+
+h6{
+	font-family: 'Quicksand', sans-serif;
+	text-align: center;
+	font-size: 12px;
+}
